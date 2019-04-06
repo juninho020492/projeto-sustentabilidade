@@ -125,7 +125,7 @@ Os registros devem ter as seguintes informações: (1) material, (2) imagem, (3)
 Informações disponíveis [aqui](https://www.ecycle.com.br/component/content/article/44-guia-da-reciclagem/1741-guia-basico-da-reciclagem-saiba-como-reaproveitar-e-reciclar-uma-serie-de-itens-do-dia-a-dia.html).
 
 
-### UC09 - Gerenciar feiras de orgânicos
+### UC10 - Gerenciar feiras de orgânicos
 
 Permite que o administrador: 
 
