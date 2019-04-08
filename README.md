@@ -4,15 +4,15 @@ Projeto para o desenvolvimento do aplicativo sobre sustentabilidade e meio ambie
 
 ## Equipe
 
-|   | Aluno                   | Casos de Uso                        |
-|---|-------------------------|-------------------------------------|
-| 1 | Alexandre Luiz          | UC01, UC02, UC03, UC04              |
-| 2 | Felipe de Paula         | UC05                                |
-| 3 | Paulo Sérgio            | UC06                                |
-| 4 | Evaldo                  | UC07                                |
-| 5 | Wiltencir               | UC08                                |
-| 6 | Bruno                   | UC09                                |
-| 7 | André                   | UC10                                |
+|   | Aluno                   | Casos de Uso                        | Usuário | 
+|---|-------------------------|-------------------------------------|---------|
+| 1 | Alexandre Luiz          | UC01, UC02, UC03, UC04              | |
+| 2 | Felipe de Paula         | UC05                                | |
+| 3 | Paulo Sérgio            | UC06                                | |
+| 4 | Evaldo                  | UC07                                | |
+| 5 | Wiltencir               | UC08                                | WiltencirDG |
+| 6 | Bruno                   | UC09                                | |
+| 7 | André                   | UC10                                | |
 
 ## Casos de Uso
 
