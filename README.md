@@ -11,7 +11,7 @@ Projeto para o desenvolvimento do aplicativo sobre sustentabilidade e meio ambie
 | 3 | Paulo Sérgio            | UC06                                | |
 | 4 | Evaldo                  | UC07                                | |
 | 5 | Wiltencir               | UC08                                | WiltencirDG |
-| 6 | Bruno                   | UC09                                | |
+| 6 | Bruno                   | UC09                                | BrunoTeixeira1999 |
 | 7 | André                   | UC10                                | |
 
 ## Casos de Uso
