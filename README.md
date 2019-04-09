@@ -12,7 +12,7 @@ Projeto para o desenvolvimento do aplicativo sobre sustentabilidade e meio ambie
 | 4 | Evaldo                  | UC07                                | |
 | 5 | Wiltencir               | UC08                                | WiltencirDG |
 | 6 | Bruno                   | UC09                                | BrunoTeixeira1999 |
-| 7 | André                   | UC10                                | |
+| 7 | André                   | UC10                                | andrebragaa |
 
 ## Casos de Uso
 
