@@ -7,7 +7,7 @@ Projeto para o desenvolvimento do aplicativo sobre sustentabilidade e meio ambie
 |   | Aluno                   | Casos de Uso                        | Usuário | 
 |---|-------------------------|-------------------------------------|---------|
 | 1 | Alexandre Luiz          | UC01, UC02, UC03, UC04              | |
-| 2 | Felipe de Paula      OK | UC05                                | |
+| 2 | Felipe de Paula      OK | UC05                                | felipedepaulamatoscosta |
 | 3 | Paulo Sérgio         OK | UC06                                | M1garant |
 | 4 | Evaldo                  | UC07                                | |
 | 5 | Wiltencir            OK | UC08                                | WiltencirDG |
